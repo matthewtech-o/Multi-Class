@@ -20,3 +20,21 @@ You can install these libraries using pip:
 ```bash
 pip install numpy pandas scikit-learn matplotlib
 
+
+
+Usage
+
+To run the notebook:
+
+Clone this repository to your local machine.
+Navigate to the repository directory.
+Launch Jupyter Notebook or JupyterLab.
+Open multi-class-prediction-of-obesity-risk.ipynb.
+Run the cells in the notebook.
+Contributing
+
+Contributions to this project are welcome! Please fork the repository and submit a pull request with your changes.
+
+License
+
+This project is open source and available under the MIT License.
